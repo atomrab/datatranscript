@@ -8,6 +8,14 @@
         "id": "https://atomrab.github.io/datatranscript/slb-and-tb-with-ad/canvas-1/canvas",
         "type": "Canvas",
         "duration": 4076.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://atomrab.github.io/datatranscript/slb-and-tb-with-ad/canvas-1/canvas/transcript.json",
+            "label": "transcript"
+          }
+        ],
         "items": [
           {
             "id": "https://atomrab.github.io/datatranscript/slb-and-tb-with-ad/canvas-1/paintings",
